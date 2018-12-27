@@ -1,4 +1,3 @@
 <resources>
     <string name="app_name">TestGit</string>
-    <string name="app_branch">TestGit Branch</string>
 </resources>
