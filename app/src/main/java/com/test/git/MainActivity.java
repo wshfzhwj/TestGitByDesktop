@@ -12,7 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.e(TAG,"first git commit");
         Log.e(TAG,"second log git commit");
-        Log.e(TAG,"third log git commit");
 
     }
 }
