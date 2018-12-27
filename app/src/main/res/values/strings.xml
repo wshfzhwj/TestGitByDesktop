@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">TestGit</string>
     <string name="app_studio">TestGit</string>
+    <string name="app_studio_git">TestGit</string>
 </resources>
